@@ -1,0 +1,19 @@
+.example-container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #eee;
+}
+
+mat-sidenav {
+  width: 20%;
+  height: 100%;
+  top: 30px;
+  background-color: rgb(41, 37, 37);
+}
+
+mat-sidenav-content {
+  top: 30px;
+}
